@@ -70,6 +70,8 @@
 * [VidPlay](https://vidplay.to/) - Movies / TV / Anime
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Streaming Desktop App / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [mov-cli](https://mov-cli.github.io/) - Streaming CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)
+* [korsanflix](https://korsanflix.net.tr/) - Movies / TV / Anime / [GitHub](https://github.com/aliyavuzz/denemeflix)
+
 
 ***
 
